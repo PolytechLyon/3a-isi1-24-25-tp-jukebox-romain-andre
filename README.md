@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Czpw_ePo)
 # Boîte musicale
 
 Dans cet exercice, vous devez créer une application web pour gérer une liste de lecture des titres musicaux (playlist).
@@ -109,10 +110,5 @@ Cette extension nécessite l'utilisation de l'API de navigation de Vue Router.
 * [Méthode statique `createObjectURL()`](https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL_static)
 * [Élément d'audio embarqué](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
 * [Vue Router](https://router.vuejs.org/) (pour l'extension de plusieurs listes de lecture)
-
-
-
-
-
 
 
